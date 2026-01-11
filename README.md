@@ -7,6 +7,7 @@
 
 ### 🔧 Projects
 - AI-based Emotion Detection Music Recommendation
+- ecommerces platform
 - Django Authentication System
 
 ### 📫 Connect with me
