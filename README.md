@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Completed my **BCA** from Bhubaneswar, Odisha; pursuing **MCA** next
+- 🎓 Completed my **BCA** from Bhubaneswar, Odisha; pursuing **MCA** 
 - 💻 Skilled in **Backend Development** — Flask, Django, REST APIs, SQL
 - 🧠 Equally passionate about **Data Science** — Pandas, NumPy, Scikit-learn
 - 🌱 Constantly building projects and sharpening my Python fundamentals
@@ -55,8 +55,7 @@ A secure user authentication system built using Django's built-in auth framework
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mitalidas125&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mitalidas125&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mitalidas125&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
