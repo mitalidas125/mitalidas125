@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Completed my **BCA** from Bhubaneswar, Odisha; pursuing **MCA** 
+- 🎓 Completed my **BCA** from Bhubaneswar, Odisha; pursuing **MCA** next
 - 💻 Skilled in **Backend Development** — Flask, Django, REST APIs, SQL
 - 🧠 Equally passionate about **Data Science** — Pandas, NumPy, Scikit-learn
 - 🌱 Constantly building projects and sharpening my Python fundamentals
