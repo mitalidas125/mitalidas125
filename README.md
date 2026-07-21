@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Mitali Das 👋</h1>
-<h3 align="center">Backend Python Developer | BCA Graduate | Aspiring Data Science Enthusiast</h3>
+<h3 align="center">Python Developer | Backend Development & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+REST+APIs+with+Flask+%26+Django;Exploring+Data+Science+with+Python;Open+to+Backend+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+REST+APIs+with+Flask+%26+Django;Exploring+Data+Science+with+Python;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Recently completed my **BCA** from Bhubaneswar, Odisha
-- 💻 Focused on **Backend Python Development** — Flask, Django, REST APIs
-- 🌱 Currently strengthening my **Data Structures & Algorithms** and preparing for placement tests (TCS Ignite)
-- 🧠 Also exploring **Data Science** fundamentals — Pandas, NumPy, Scikit-learn
-- 💼 Open to **freelance projects** and **fresher backend roles**
+- 🎓 Completed my **BCA** from Bhubaneswar, Odisha; pursuing **MCA** 
+- 💻 Skilled in **Backend Development** — Flask, Django, REST APIs, SQL
+- 🧠 Equally passionate about **Data Science** — Pandas, NumPy, Scikit-learn
+- 🌱 Constantly building projects and sharpening my Python fundamentals
+- 💼 Open to **freelance projects** and **collaboration opportunities**
 - 📫 Reach me at: **dasmitali7089@gmail.com**
 
 ---
@@ -55,8 +55,8 @@ A secure user authentication system built using Django's built-in auth framework
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitalidas125&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitalidas125&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mitalidas125&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mitalidas125&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
