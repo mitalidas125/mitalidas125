@@ -26,6 +26,7 @@ Built with Flask, MySQL, PyPDF2, and spaCy — parses resumes and matches candid
 
 **🔹 AI-based Emotion Detection with Music Recommendation**
 Detects emotion from typing behavior using a Random Forest Classifier (Scikit-learn) and recommends music accordingly. Built with Streamlit, Pandas, and Joblib.
+https://mitalidas125-ai-based-emotion-detection-music-recomm-app-2h6x50.streamlit.app/
 
 **🔹 E-commerce Platform**
 A web-based e-commerce platform project showcasing full-stack development skills.
