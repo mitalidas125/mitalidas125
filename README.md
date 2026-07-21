@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mitali Das 👋</h1>
-<h3 align="center">Python Developer | Backend Development & Data Science Enthusiast</h3>
+<h3 align="center">Aspiring Python Developer| Backend Development & Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+REST+APIs+with+Flask+%26+Django;Exploring+Data+Science+with+Python;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
